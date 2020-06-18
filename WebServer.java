@@ -1,38 +1,6 @@
 /*--------------------------------------------------------
 
-1. Name / Date: Chadwick Rivera-Crum / 5/3/20
-
-2. Java version used, if not the official version for the class: Java 1.8
-
-
-
-3. Precise command-line compilation examples / instructions:
-
-
-> javac MyWebServer.java
-
-
-4. Precise examples / instructions to run this program:
-
-
-For using single server:
-
-> java MyWebServer
-
-
-
-All acceptable commands are displayed on the various consoles.
-
-
-5. List of files needed for running the program.
-
-
- a. MyWebServer.java
- b. http-streams.txt
- c. serverlog.txt
- d. checklist-mywebserver.html
-
-5. Notes:
+ Chadwick Rivera-Crum 
 
 
 
